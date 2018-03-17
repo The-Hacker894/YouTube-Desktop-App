@@ -1,5 +1,5 @@
 # YouTube-Desktop-App
-jiahaog for making the awesome software they call nativefier Also see on NPM
+Created with [Nativefier](https://github.com/jiahaog/nativefier)
 
 # Available for Windows and Linux
 ![alt text](https://i.imgur.com/ZAz3224.png)
